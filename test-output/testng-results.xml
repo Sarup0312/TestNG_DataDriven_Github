@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68068" started-at="2019-06-15T17:56:45Z" finished-at="2019-06-15T17:57:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68068" started-at="2019-06-15T17:56:45Z" finished-at="2019-06-15T17:57:53Z">
+      <class name="com.model.task.DataDrivenFB">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="openBrowser" is-config="true" duration-ms="5306" started-at="2019-06-15T23:26:39Z" finished-at="2019-06-15T23:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterApplicationURL()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="enterApplicationURL" is-config="true" duration-ms="4671" started-at="2019-06-15T23:26:45Z" finished-at="2019-06-15T23:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationURL -->
+        <test-method status="PASS" signature="maximizeBrowser()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="maximizeBrowser" is-config="true" duration-ms="2328" started-at="2019-06-15T23:26:49Z" finished-at="2019-06-15T23:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeBrowser -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="60" started-at="2019-06-15T23:26:52Z" finished-at="2019-06-15T23:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="7088" started-at="2019-06-15T23:26:52Z" data-provider="getdata" finished-at="2019-06-15T23:26:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KamalllJan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kanhee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sandip_agale@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sandip_agale@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@123456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="521" started-at="2019-06-15T23:26:59Z" finished-at="2019-06-15T23:26:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="39" started-at="2019-06-15T23:26:59Z" finished-at="2019-06-15T23:26:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="5083" started-at="2019-06-15T23:26:59Z" data-provider="getdata" finished-at="2019-06-15T23:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SonalllRani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zintaa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rupalikhule92@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rupalikhule92@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@123456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2002]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="1021" started-at="2019-06-15T23:27:04Z" finished-at="2019-06-15T23:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="40" started-at="2019-06-15T23:27:05Z" finished-at="2019-06-15T23:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4708" started-at="2019-06-15T23:27:05Z" data-provider="getdata" finished-at="2019-06-15T23:27:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RekhaaRani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pawsee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sandipagale03@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sandipagale03@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2003]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="915" started-at="2019-06-15T23:27:10Z" finished-at="2019-06-15T23:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="29" started-at="2019-06-15T23:27:11Z" finished-at="2019-06-15T23:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4808" started-at="2019-06-15T23:27:11Z" data-provider="getdata" finished-at="2019-06-15T23:27:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SandipRaje]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[khulee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rupalideveloper16@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rupalideveloper16@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@123434]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="902" started-at="2019-06-15T23:27:16Z" finished-at="2019-06-15T23:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="16" started-at="2019-06-15T23:27:17Z" finished-at="2019-06-15T23:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4798" started-at="2019-06-15T23:27:17Z" data-provider="getdata" finished-at="2019-06-15T23:27:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PankajjRaja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dubee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sandipagale03@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sandipagale03@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@123456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2005]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="893" started-at="2019-06-15T23:27:22Z" finished-at="2019-06-15T23:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="56" started-at="2019-06-15T23:27:22Z" finished-at="2019-06-15T23:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4869" started-at="2019-06-15T23:27:23Z" data-provider="getdata" finished-at="2019-06-15T23:27:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RamojiiiRana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Maharajaa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sandipagale03@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sandipagale03@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2006]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="1311" started-at="2019-06-15T23:27:27Z" finished-at="2019-06-15T23:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="17" started-at="2019-06-15T23:27:29Z" finished-at="2019-06-15T23:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4741" started-at="2019-06-15T23:27:29Z" data-provider="getdata" finished-at="2019-06-15T23:27:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ujwalaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Agalee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rupalikhulee92@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rupalikhulee92@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="894" started-at="2019-06-15T23:27:33Z" finished-at="2019-06-15T23:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="26" started-at="2019-06-15T23:27:34Z" finished-at="2019-06-15T23:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4882" started-at="2019-06-15T23:27:34Z" data-provider="getdata" finished-at="2019-06-15T23:27:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shardaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bendree]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rupalideveloperr16@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rupalideveloperr16@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2008]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="954" started-at="2019-06-15T23:27:39Z" finished-at="2019-06-15T23:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="30" started-at="2019-06-15T23:27:40Z" finished-at="2019-06-15T23:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4704" started-at="2019-06-15T23:27:40Z" data-provider="getdata" finished-at="2019-06-15T23:27:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pramilaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Khulee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sandip_agale@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sandip_agale@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2009]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="919" started-at="2019-06-15T23:27:45Z" finished-at="2019-06-15T23:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="getAllCookies" is-config="true" duration-ms="13" started-at="2019-06-15T23:27:46Z" finished-at="2019-06-15T23:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithValidds(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="loginwithValidds" duration-ms="4842" started-at="2019-06-15T23:27:46Z" data-provider="getdata" finished-at="2019-06-15T23:27:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kanchanna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[varpeee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sandip_agale@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sandip_agale@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rupali@12891]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="captureScreenshot" is-config="true" duration-ms="966" started-at="2019-06-15T23:27:51Z" finished-at="2019-06-15T23:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="deleteAllCookies()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="deleteAllCookies" is-config="true" duration-ms="871" started-at="2019-06-15T23:27:52Z" finished-at="2019-06-15T23:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method status="PASS" signature="dbConnectionClosed()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="dbConnectionClosed" is-config="true" duration-ms="0" started-at="2019-06-15T23:27:53Z" finished-at="2019-06-15T23:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnectionClosed -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.model.task.DataDrivenFB@21a06946]" name="closeBrowser" is-config="true" duration-ms="2203" started-at="2019-06-15T23:27:53Z" finished-at="2019-06-15T23:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.model.task.DataDrivenFB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
