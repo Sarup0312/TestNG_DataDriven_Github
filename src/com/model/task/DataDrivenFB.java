@@ -44,6 +44,7 @@ public class DataDrivenFB
      Select sel=new Select(obj);
      sel.selectByValue(day);
      
+     
      WebElement month1= driver.findElement(By.id("month"));  
      Select sel1=new Select(month1);
      sel1.selectByValue(month);
@@ -269,6 +270,9 @@ public class DataDrivenFB
   {
 	  System.out.println("In closeBrowser method under AfterSuite");
 	  driver.close();
+	  System.out.println("In git hub changes closeBrowser method under AfterSuite");
+	  System.out.println("In opensBrowser method under AfterSuite");
+	  
   }
 }
 /*
