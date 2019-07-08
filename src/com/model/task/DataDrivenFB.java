@@ -246,6 +246,7 @@ public class DataDrivenFB
   {
 	  System.out.println("In enterApplicationURL method under BeforeTest");
 	  driver.get("https://www.facebook.com/");
+	  System.out.println("Git hub changesurl  open sucessfully");
   }
 
   @AfterTest
